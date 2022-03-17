@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Amii5m3/Amii5m3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on automating preattack techniques with python.
 - 🌱 I’m currently learning Mitre Att&ck and Defense more in depth.
 
@@ -17,4 +12,3 @@ Here are some ideas to get you started:
           Achieve at least 50 blog posts by the end of the year.
           Schedule and Pass Comptia Security + exam.
              
--->
