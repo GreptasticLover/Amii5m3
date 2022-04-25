@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on automating preattack techniques with python.
 - 🌱 I’m currently learning Mitre Att&ck and Defense more in depth.
 
-- 💬 Ask me about my blog https://medium/@ashlyncmatthews I love writing and breaking down complex concepts. New pieces coming soon.
 - 📫 How to reach me: https://linkedin/in/ashlyncmatthews
 
 - ⚡ Goals for this year: 
